@@ -4,7 +4,7 @@ Os Algoritmos de BCrypt utilizam do Algoritmo de One Way, significa que teremos 
 
 Referências
 
-!(BCrypt hash image)[https://i.sstatic.net/m8opZ.png]
+![BCrypt hash image](https://i.sstatic.net/m8opZ.png)
 
 Referências:
 
